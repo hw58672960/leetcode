@@ -5,7 +5,8 @@ created by Herz
  */
 public class test {
     public static void main(String[] args) {
-String s="67 5424";
-System.out.println(s.trim().length());
+        char a = '1';
+        int b = (int) a-'0';
+        System.out.println(b);
     }
 }
